@@ -1,0 +1,15 @@
+{
+  "name": "tethered",
+  "version": "1.0.0",
+  "description": "TetherEd - Online Learning Platform",
+  "main": "TetherEd.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["learning", "education"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
